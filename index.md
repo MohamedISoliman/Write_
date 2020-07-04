@@ -1,4 +1,4 @@
- ### Write_
+ # Write_
 
  Is an open source minimal note taking app, to practice Android development best practices.
 
